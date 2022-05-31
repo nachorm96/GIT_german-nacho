@@ -2,3 +2,4 @@
 PARA QUE EFECTIVAMENTE VEAMOS EL CAMBIO */
 
 let repo = ('Puede salir todo bien o todo mal')
+//esto parece conversacon xd, espero slaga todo bien ajja

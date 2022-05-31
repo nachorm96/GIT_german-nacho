@@ -3,3 +3,9 @@ function git(param1, param2){
 }
 
 console.log(git('Joe Biden','EEUU'))
+
+const funciones = require("./funciones");
+const tareas = require("./data/tareas.json");
+const practicaRepo = require("./data/practicaRepo.json");
+
+// console.log(funciones.listarForeach(practicaRepo)); // no funciono con process xd

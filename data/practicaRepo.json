@@ -1,10 +1,10 @@
 [
     {
-        "tarea": "practicar el repo",
+        "titulo": "practicar el repo",
         "estado": "en progreso"
     },
     {
-        "tarea": "almorzar",
+        "titulo": "almorzar",
         "estado": "pendiente"
     }
 ]
